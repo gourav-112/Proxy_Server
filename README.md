@@ -60,8 +60,8 @@ This project is implemented using `C` and Parsing of HTTP referred from <a href 
 ## How to Run
 
 ```bash
-$ git clone https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient.git
-$ cd MultiThreadedProxyServerClient
+$ git clone https://github.com/gourav-112/Proxy_Server.git
+$ cd Proxy_Server
 $ make all
 $ ./proxy <port no.>
 ```
@@ -78,7 +78,7 @@ $ ./proxy <port no.>
 
 ## Contributing
 
-[[Back to top]](https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient#index)
+[[Back to top]](https://github.com/gourav-112/Proxy_Server#index)
 
 Feel free to add some useful. You can see `How this code can be extended`. Use ideas from there and feel free to fork and CHANGE. 
 
