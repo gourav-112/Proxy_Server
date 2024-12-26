@@ -5,10 +5,10 @@ This project is implemented using `C` and Parsing of HTTP referred from <a href 
 
 ## Index
 
-- [Project Theory](https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient#project-theory)
-- [How to Run](https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient#How-to-Run)
-- [Demo](https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient#Demo)
-- [Contributing](https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient#contributing)
+- [Project Theory](https://github.com/gourav-112/Proxy_Server#project-theory)
+- [How to Run](https://github.com/gourav-112/Proxy_Server#How-to-Run)
+- [Demo](https://github.com/gourav-112/Proxy_Server#Demo)
+- [Contributing](https://github.com/gourav-112/Proxy_Server#contributing)
 
 ## Project Theory
 
